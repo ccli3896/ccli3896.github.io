@@ -51,9 +51,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-font-awesome-sass
 
 author:
   name   : "Chenguang Li"
