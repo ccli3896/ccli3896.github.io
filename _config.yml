@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+
 title: CC.LI
 email: ccli[dot]3896[at]gmail[dot]com
 description: >- # this means to ignore newlines until "baseurl:"
   Mostly computational neuroscience research, papers, books
-twitter_username: username
 github_username: ccli3896
 minimal_mistakes_skin: default
 search: true
@@ -51,9 +52,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-font-awesome-sass
+
 
 author:
   name   : "Chenguang Li"
