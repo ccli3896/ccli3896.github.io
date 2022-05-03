@@ -56,11 +56,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Google Analytics
+google_analytics: G-LTR5JWSBQB
+
 
 author:
   name   : "Chenguang Li"
   avatar : "/assets/images/IMG_0507_Original_crop.jpg"
-  bio    : "Research, papers, books (mostly neuroscience)"
+  bio    : "Research, papers, books (mostly neuroscience). Email me at ccli[dot]3896[at]gmail[dot]com."
   links:
     - label: "Facebook"
       icon: "fab fa-facebook"
